@@ -1,0 +1,37 @@
+﻿<Window x:Class="PR18_Starodubcev.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PR18_Starodubcev"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0"  HorizontalAlignment="Center" VerticalAlignment="Center" Height="250">
+            <TextBlock Text="Вариант №13" Margin="5" Height="25" Width="250"/>
+            <TextBlock Text="Введите строки" Margin="5" Height="25" Width="250"/>
+            <TextBox Name="a" Margin="5" Height="25" Width="250"/>
+            <TextBox Name="b" Margin="5" Height="25" Width="250"/>
+            <TextBox Name="c" Margin="5" Height="25" Width="250"/>
+            <TextBox Name="d" Margin="5" Height="25" Width="250"/>
+            <TextBox Name="e" Margin="5" Height="25" Width="250"/>
+            <TextBox Name="f" Margin="5" Height="25" Width="250"/>
+        </StackPanel>
+        <StackPanel Grid.Row="1"  HorizontalAlignment="Center" VerticalAlignment="Center">
+            <StackPanel >
+                <Button Content="Преобразовать тексты" Click="Button_Click" Margin="5"/>
+
+            </StackPanel>
+
+            <TextBlock Name="a1" Margin="5" Height="25" Width="500"
+                       Text="Результат преобразования 1-ой строки:"/>
+            <TextBlock Name="d1" Margin="5" Height="25" Width="500"
+                        Text="Результат преобразования 2-ой строки:"/>
+
+        </StackPanel>
+    </Grid>
+</Window>

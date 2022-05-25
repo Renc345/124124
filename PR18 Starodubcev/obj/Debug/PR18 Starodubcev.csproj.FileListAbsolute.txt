@@ -1,0 +1,18 @@
+C:\Users\Студент\Desktop\PR18 Starodubcev\obj\Debug\PR18 Starodubcev.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\PR18 Starodubcev\obj\Debug\MainWindow.g.cs
+C:\Users\Студент\Desktop\PR18 Starodubcev\obj\Debug\App.g.cs
+C:\Users\Студент\Desktop\PR18 Starodubcev\obj\Debug\PR18 Starodubcev_MarkupCompile.cache
+C:\Users\Студент\Desktop\PR18 Starodubcev\obj\Debug\PR18 Starodubcev_MarkupCompile.lref
+C:\Users\Студент\Desktop\PR18 Starodubcev\bin\Debug\PR18 Starodubcev.exe.config
+C:\Users\Студент\Desktop\PR18 Starodubcev\bin\Debug\PR18 Starodubcev.exe
+C:\Users\Студент\Desktop\PR18 Starodubcev\bin\Debug\PR18 Starodubcev.pdb
+C:\Users\Студент\Desktop\PR18 Starodubcev\bin\Debug\Metod.dll
+C:\Users\Студент\Desktop\PR18 Starodubcev\bin\Debug\Metod.pdb
+C:\Users\Студент\Desktop\PR18 Starodubcev\obj\Debug\MainWindow.baml
+C:\Users\Студент\Desktop\PR18 Starodubcev\obj\Debug\PR18 Starodubcev.g.resources
+C:\Users\Студент\Desktop\PR18 Starodubcev\obj\Debug\PR18_Starodubcev.Properties.Resources.resources
+C:\Users\Студент\Desktop\PR18 Starodubcev\obj\Debug\PR18 Starodubcev.csproj.GenerateResource.cache
+C:\Users\Студент\Desktop\PR18 Starodubcev\obj\Debug\PR18 Starodubcev.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\PR18 Starodubcev\obj\Debug\PR18 Starodubcev.csproj.CopyComplete
+C:\Users\Студент\Desktop\PR18 Starodubcev\obj\Debug\PR18 Starodubcev.exe
+C:\Users\Студент\Desktop\PR18 Starodubcev\obj\Debug\PR18 Starodubcev.pdb

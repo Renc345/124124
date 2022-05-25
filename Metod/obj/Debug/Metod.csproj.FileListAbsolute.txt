@@ -1,0 +1,6 @@
+C:\Users\Студент\Desktop\Metod\bin\Debug\Metod.dll
+C:\Users\Студент\Desktop\Metod\bin\Debug\Metod.pdb
+C:\Users\Студент\Desktop\Metod\obj\Debug\Metod.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\Metod\obj\Debug\Metod.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\Metod\obj\Debug\Metod.dll
+C:\Users\Студент\Desktop\Metod\obj\Debug\Metod.pdb
